@@ -1,0 +1,1 @@
+# Java_FunctionalInterface_Supplier
